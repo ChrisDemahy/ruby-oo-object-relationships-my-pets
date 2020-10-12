@@ -1,5 +1,5 @@
 require_relative 'spec_helper.rb'
-
+require "pry"
 describe Cat do
 
   before do
